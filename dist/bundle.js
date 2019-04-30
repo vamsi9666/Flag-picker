@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "b070326a9c898f281ea4";
+/******/ 	var hotCurrentHash = "e06aa64f4601a823a1e0";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -56962,7 +56962,7 @@ var _default = function _default() {
     var action = arguments[1];
 
     switch (action.type) {
-        case ActionTypes.FETCH_CONTINENTS_DATzsdzsdfafds:
+        case ActionTypes.FETCH_hdtghCONTINENTtjhtS_DATA:
             return _extends({}, state, {
                 continents: action.payload || state.continents
             });
