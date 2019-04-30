@@ -17,7 +17,7 @@ const getUpdatedContinents = (state, action, __isSelected) => {
 
 export default function (state = initialState, action) {
     switch (action.type) {
-        case ActionTypes.FETCH_CONTINENTS_DATzsdzsdfafds:
+        case ActionTypes.FETCH_hdtghCONTINENTtjhtS_DATA:
             return {...state,
                 continents: action.payload || state.continents
             }
